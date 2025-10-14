@@ -25,7 +25,7 @@ disablePathToLower = true
 [languages]
 [languages.en]
   languageName = 'English'
-  contentDir = 'content'
+  contentDir = 'content.en'
   weight = 1
 
 [languages.zh]
